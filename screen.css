@@ -1,0 +1,87 @@
+body {
+	font: 1em georgia, times new roman, times, serif;
+	color: #000000;
+	background: #eeede6 url(img/ambiente.jpg) no-repeat top center;
+	width: 800px;
+	margin: 30px auto;
+}
+
+.main {
+	margin-left: 200px;
+	font-size: 1.2em;
+	line-height: 1.5em;
+}
+
+.nav {
+	width: 160px;
+	position: fixed;
+	top: 150px;
+	padding: 20px 20px 20px 0;
+	border-right: 2px dashed #c2c187;
+	}
+	.nav li {
+		display: block;
+		list-style: none;
+		text-align: right;
+		}
+		.nav li a.active {
+			background-color: #dad9a8;
+		}
+		.nav li a {
+			display: block;
+			color: #000000;
+			text-decoration: none;
+			padding: 7px 50px 7px 9px;
+			margin: 4px 0 0 0;
+			border-radius: 12px;
+			font-size: 1.2em;
+			-moz-border-radius: 12px;
+			-webkit-border-radius: 12px;
+			background: url(img/nav/default.png) no-repeat 120px center;
+			}
+			.nav li a:hover {
+				background-color: #dad9a8;
+			}
+
+
+
+
+
+/* basics */
+
+h1 {
+	background: url(img/wortmarke.png);
+	width: 350px;
+	height: 100px;
+	margin: 10px auto 60px auto;
+	text-indent: -9999px;
+}
+h2 {
+	display: none;
+}
+h3 {
+	font-family: georgia, times new roman, times, serif;
+	font-weight: normal;
+}
+b {
+	font-weight: normal;
+	background: #aabed0;
+	padding: 3px 5px;
+}
+a:active, a:focus {
+	outline: none;
+}
+
+
+
+
+
+
+
+
+/* nav icons */
+
+ul.nav li a.zweikoorn { background-image: url(img/nav/zweikoorn.png); }
+ul.nav li a.releases { background-image: url(img/nav/releases.png); }
+ul.nav li a.docs { background-image: url(img/nav/docs.png); }
+ul.nav li a.credits { background-image: url(img/nav/credits.png); }
