@@ -63,7 +63,7 @@ h3 {
 	font-family: georgia, times new roman, times, serif;
 	font-weight: normal;
 }
-b {
+b,strong {
 	font-weight: normal;
 	background: #aabed0;
 	padding: 3px 5px;
