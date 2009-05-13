@@ -56,11 +56,7 @@ h1 {
 	margin: 10px auto 60px auto;
 	text-indent: -9999px;
 }
-h2 {
-	display: none;
-}
-h3 {
-	font-family: georgia, times new roman, times, serif;
+h2,h3,h4,h5,h6 {
 	font-weight: normal;
 }
 b,strong {
