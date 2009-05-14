@@ -78,6 +78,7 @@ a:active, a:focus {
 /* nav icons */
 
 ul.nav li a.zweikoorn { background-image: url(img/nav/zweikoorn.png); }
-ul.nav li a.releases { background-image: url(img/nav/releases.png); }
+ul.nav li a.projects { background-image: url(img/nav/projects.png); }
+ul.nav li a.downloads { background-image: url(img/nav/downloads.png); }
 ul.nav li a.docs { background-image: url(img/nav/docs.png); }
 ul.nav li a.credits { background-image: url(img/nav/credits.png); }
