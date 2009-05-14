@@ -3,10 +3,6 @@ layout: default
 title: Improving Objects.
 ---
 
-Zweikoorn - Improving Objects.
-===============================
-
-
 About
 ------
 
