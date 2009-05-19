@@ -37,7 +37,7 @@ body {
 			font-size: 1.2em;
 			-moz-border-radius: 12px;
 			-webkit-border-radius: 12px;
-			background: url(img/nav/default.png) no-repeat 120px center;
+			background: url(img/nav/default.png) no-repeat 130px center;
 			}
 			.nav li a:hover {
 				background-color: #dad9a8;
