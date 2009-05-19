@@ -16,7 +16,7 @@ body {
 	width: 160px;
 	position: fixed;
 	top: 150px;
-	padding: 20px 20px 20px 0;
+	padding: 20px 15px 20px 0;
 	border-right: 2px dashed #c2c187;
 	}
 	.nav li {
@@ -37,7 +37,7 @@ body {
 			font-size: 1.2em;
 			-moz-border-radius: 12px;
 			-webkit-border-radius: 12px;
-			background: url(img/nav/default.png) no-repeat 130px center;
+			background: url(img/nav/default.png) no-repeat 125px center;
 			}
 			.nav li a:hover {
 				background-color: #dad9a8;
