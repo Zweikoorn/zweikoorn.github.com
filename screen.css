@@ -1,3 +1,27 @@
+/* basics */
+
+h1 {
+	background: url(img/wortmarke.png);
+	width: 350px;
+	height: 100px;
+	margin: 10px auto 60px auto;
+	text-indent: -9999px;
+}
+h2,h3,h4,h5,h6 {
+	font-weight: normal;
+}
+b,strong {
+	font-weight: normal;
+	background: #aabed0;
+	padding: 3px 5px;
+}
+a:active, a:focus {
+	outline: none;
+}
+
+
+/* layout */
+
 body {
 	font: 1em georgia, times new roman, times, serif;
 	color: #000000;
@@ -42,32 +66,6 @@ body {
 			.nav li a:hover {
 				background-color: #dad9a8;
 			}
-
-
-
-
-/* basics */
-
-h1 {
-	background: url(img/wortmarke.png);
-	width: 350px;
-	height: 100px;
-	margin: 10px auto 60px auto;
-	text-indent: -9999px;
-}
-h2,h3,h4,h5,h6 {
-	font-weight: normal;
-}
-b,strong {
-	font-weight: normal;
-	background: #aabed0;
-	padding: 3px 5px;
-}
-a:active, a:focus {
-	outline: none;
-}
-
-
 
 
 /* nav icons */
